@@ -44,7 +44,7 @@
   <h4>Fáça o Download do repositorio ou clone ele na sua maquina</h4>
   <h4>Entre na Pasta do App</h4>
   <h4>Abrá seu terminal e coloque o seguinte comando</h4>
-  <h4>Npm Install, ( Para instalar a pasta node mudulos )</h4>
+  <h4>npm Install, ( Para instalar a pasta node mudulos )</h4>
   <h4>Em seguida roda a aplicação com ( npx expo start )</h4>
   <h4>Pronto!</h4>
 </div>
