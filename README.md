@@ -15,11 +15,25 @@
 <div>
   <h2>Tecnologias Usadas</h2>
   
+   <h3>Front-end</h3>
+  
   <h4> React Native (Expo),</h4>
-  <h4> React Navigation,</h4>
-  <h4> Styled Components,</h4>
+  <h4>React Navigation,</h4>
+  <h4>Styled Components,</h4>
+  <h4>Async Storage,</h4>
   <h4>TypeScript,</h4>
   <h4>Native Base</h4>
+  
+  <h4>Axios</h4>
+  
+  
+  <h3>Back-end</h3>
+  
+  <h4>JavaScript,</h4>
+  <h4>Sql Lite,</h4>
+  <h4>Express,</h4>
+  <h4>Node,</h4>
+  <h4>Cors,</h4>
 </div>
 
 <div>
@@ -39,7 +53,7 @@
 <div>
   <h2>Como instalar</h2>
   
-  <h3>App Front-end</h3>
+  <h3>Front-end</h3>
   
   <h4>Fáça o Download do repositorio ou clone ele na sua maquina</h4>
   <h4>Entre na Pasta do App</h4>
