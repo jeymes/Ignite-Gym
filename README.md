@@ -46,5 +46,9 @@
   <h4>Abrá seu terminal e coloque o seguinte comando</h4>
   <h4>npm Install, ( Para instalar a pasta node mudulos )</h4>
   <h4>Em seguida roda a aplicação com ( npx expo start )</h4>
+  <h4> Em seguida baixe o Backend da aplicação no seguinte repositorio https://github.com/jeymes/ignitegym-api </h4>
+  <h4>Abrá seu terminal e coloque o seguinte comando</h4>
+  <h4>npm Install, ( Para instalar a pasta node mudulos )</h4>
+  <h4>Em seguida roda a aplicação com ( npm run dev )</h4>
   <h4>Pronto!</h4>
 </div>
